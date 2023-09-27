@@ -16,7 +16,7 @@ const ALL_ENTRIES = [
         "category": "canine",
         "color": "brown",
         "canFly": false,
-        "imageUrl": "images/brown-dog.jpg"
+        "imageUrl": "/images/brown-dog.jpg"
     },
     {
         "id": "debf2dc7-62f7-4f23-a505-3a9ebd27ca5c",
@@ -25,7 +25,7 @@ const ALL_ENTRIES = [
         "category": "ursidae",
         "color": "black",
         "canFly": false,
-        "imageUrl": "images/black-bear.jpg"
+        "imageUrl": "/images/black-bear.jpg"
     },
     {
         "id": "9dd51735-72a5-4e97-84cb-818fc877b7aa",
@@ -34,7 +34,7 @@ const ALL_ENTRIES = [
         "category": "ursidae",
         "color": "brown",
         "canFly": false,
-        "imageUrl": "images/brown-bear.jpg"
+        "imageUrl": "/images/brown-bear.jpg"
     },
     {
         "id": "f5778eb0-b675-4133-a46c-c41bc81ce2ca",
@@ -43,7 +43,7 @@ const ALL_ENTRIES = [
         "category": "bird",
         "color": "brown",
         "canFly": true,
-        "imageUrl": "images/brown-duck.jpg"
+        "imageUrl": "/images/brown-duck.jpg"
     },
     {
         "id": "c408f2b9-4dda-43f7-935a-8cb3ea09e51e",
@@ -52,7 +52,7 @@ const ALL_ENTRIES = [
         "category": "canine",
         "color": "brown",
         "canFly": false,
-        "imageUrl": "images/brown-wolf.jpg"
+        "imageUrl": "/images/brown-wolf.jpg"
     },
     {
         "id": "21aa7bab-50a0-42d6-aeec-2d74bdef6977",
@@ -61,7 +61,7 @@ const ALL_ENTRIES = [
         "category": "canine",
         "color": "white",
         "canFly": false,
-        "imageUrl": "images/derpy-dog.jpg"
+        "imageUrl": "/images/derpy-dog.jpg"
     },
     {
         "id": "6edc5217-496d-455a-94e0-60a480218e43",
@@ -70,7 +70,7 @@ const ALL_ENTRIES = [
         "category": "bird",
         "color": "brown",
         "canFly": true,
-        "imageUrl": "images/exasperated-curlew.jpg"
+        "imageUrl": "/images/exasperated-curlew.jpg"
     },
     {
         "id": "e820eb5b-b96b-47a8-b84e-96ba8d4e502b",
@@ -79,7 +79,7 @@ const ALL_ENTRIES = [
         "category": "bird",
         "color": "brown",
         "canFly": true,
-        "imageUrl": "images/excited-curlew.jpg"
+        "imageUrl": "/images/excited-curlew.jpg"
     },
     {
         "id": "fb9f8726-de72-48cc-93a5-350e36e984e1",
@@ -88,7 +88,7 @@ const ALL_ENTRIES = [
         "category": "ursidae",
         "color": "white",
         "canFly": false,
-        "imageUrl": "images/polar-bear.jpg"
+        "imageUrl": "/images/polar-bear.jpg"
     },
     {
         "id": "57fd69b7-3f35-4c83-9911-bd4d87856faf",
@@ -97,7 +97,7 @@ const ALL_ENTRIES = [
         "category": "bird",
         "color": "brown",
         "canFly": true,
-        "imageUrl": "images/sad-curlew.jpg"
+        "imageUrl": "/images/sad-curlew.jpg"
     },
     {
         "id": "e7c9be24-578a-465e-a5c8-83d50981d369",
@@ -106,7 +106,7 @@ const ALL_ENTRIES = [
         "category": "bird",
         "color": "brown",
         "canFly": false,
-        "imageUrl": "images/shocked-emu.jpg"
+        "imageUrl": "/images/shocked-emu.jpg"
     },
     {
         "id": "78398284-4c3b-45ce-85fe-7a5e4d91d77a",
@@ -115,7 +115,7 @@ const ALL_ENTRIES = [
         "category": "bird",
         "color": "white",
         "canFly": true,
-        "imageUrl": "images/white-dove.jpg"
+        "imageUrl": "/images/white-dove.jpg"
     },
     {
         "id": "a2e5313a-1a68-4ccc-839d-d62bbfb3518b",
@@ -124,7 +124,7 @@ const ALL_ENTRIES = [
         "category": "bird",
         "color": "white",
         "canFly": true,
-        "imageUrl": "images/white-duck.jpg"
+        "imageUrl": "/images/white-duck.jpg"
     },
     {
         "id": "61b0d0ae-efca-4c78-8bf5-e7bafc80ca2d",
@@ -133,7 +133,7 @@ const ALL_ENTRIES = [
         "category": "canine",
         "color": "white",
         "canFly": false,
-        "imageUrl": "images/white-wolf.jpg"
+        "imageUrl": "/images/white-wolf.jpg"
     },
     {
         "id": "a6df5bc8-afa3-448a-9bb6-0e134ab01715",
@@ -142,7 +142,7 @@ const ALL_ENTRIES = [
         "category": "bird",
         "color": "yellow",
         "canFly": true,
-        "imageUrl": "images/yellow-duck.jpg"
+        "imageUrl": "/images/yellow-duck.jpg"
     },
     // End of first page
     {
@@ -152,7 +152,7 @@ const ALL_ENTRIES = [
         "category": "canine",
         "color": "orange",
         "canFly": false,
-        "imageUrl": "images/sleepy-fox.jpg"
+        "imageUrl": "/images/sleepy-fox.jpg"
     },
     {
         "id": "18e4264b-a94c-4201-8686-e125b01fadb6",
@@ -161,7 +161,7 @@ const ALL_ENTRIES = [
         "category": "bird",
         "color": "rainbow",
         "canFly": true,
-        "imageUrl": "images/stunned-lorikeet.jpg"
+        "imageUrl": "/images/stunned-lorikeet.jpg"
     },
     {
         "id": "baa306ea-7379-4663-952b-7d5d4cdddf7e",
@@ -170,7 +170,7 @@ const ALL_ENTRIES = [
         "category": "bird",
         "color": "white",
         "canFly": true,
-        "imageUrl": "images/aggressive-lorikeet.jpg"
+        "imageUrl": "/images/aggressive-lorikeet.jpg"
     },
     {
         "id": "f390f533-802a-4797-8557-8070e76eb2b9",
@@ -179,7 +179,7 @@ const ALL_ENTRIES = [
         "category": "feline",
         "color": "orange",
         "canFly": false,
-        "imageUrl": "images/curious-cat.jpg"
+        "imageUrl": "/images/curious-cat.jpg"
     },
     {
         "id": "943460d2-5462-4792-87e1-b69a31c5718d",
@@ -188,7 +188,7 @@ const ALL_ENTRIES = [
         "category": "feline",
         "color": "white",
         "canFly": false,
-        "imageUrl": "images/hungry-cat.jpg"
+        "imageUrl": "/images/hungry-cat.jpg"
     },
     {
         "id": "3853b563-d28c-4d0f-98a5-d5208cfdfb50",
@@ -197,7 +197,7 @@ const ALL_ENTRIES = [
         "category": "feline",
         "color": "orange",
         "canFly": false,
-        "imageUrl": "images/stretching-cat.jpg"
+        "imageUrl": "/images/stretching-cat.jpg"
     },
     {
         "id": "1145f081-1876-45d6-9401-34dfc4be5b7b",
@@ -206,7 +206,7 @@ const ALL_ENTRIES = [
         "category": "bird",
         "color": "white",
         "canFly": false,
-        "imageUrl": "images/chilling-dove.jpg"
+        "imageUrl": "/images/chilling-dove.jpg"
     },
     {
         "id": "a04961a9-7c79-44d6-8488-2d54979e736c",
@@ -215,7 +215,7 @@ const ALL_ENTRIES = [
         "category": "feline",
         "color": "orange",
         "canFly": false,
-        "imageUrl": "images/surprised-tiger.jpg"
+        "imageUrl": "/images/surprised-tiger.jpg"
     },
     {
         "id": "1a64c768-e17a-47f7-b8f6-10065ee278c4",
@@ -224,7 +224,7 @@ const ALL_ENTRIES = [
         "category": "feline",
         "color": "white",
         "canFly": false,
-        "imageUrl": "images/powerful-tiger.jpg"
+        "imageUrl": "/images/powerful-tiger.jpg"
     },
     {
         "id": "0965f633-e687-40c6-b4dd-5ffea1b5c548",
@@ -233,7 +233,7 @@ const ALL_ENTRIES = [
         "category": "feline",
         "color": "orange",
         "canFly": false,
-        "imageUrl": "images/stalking-lion.jpg"
+        "imageUrl": "/images/stalking-lion.jpg"
     },
     {
         "id": "460d6da1-45b0-42ba-9cb8-814aa8050c51",
@@ -242,7 +242,7 @@ const ALL_ENTRIES = [
         "category": "fish",
         "color": "yellow",
         "canFly": false,
-        "imageUrl": "images/late-tang.jpg"
+        "imageUrl": "/images/late-tang.jpg"
     },
     {
         "id": "960cdf6a-2747-48e4-aa74-5b333eb6e803",
@@ -251,7 +251,7 @@ const ALL_ENTRIES = [
         "category": "insect",
         "color": "yellow",
         "canFly": true,
-        "imageUrl": "images/resting-bee.jpg"
+        "imageUrl": "/images/resting-bee.jpg"
     },
     {
         "id": "d7747fbc-d32b-4426-be79-7de311a31d14",
@@ -260,7 +260,7 @@ const ALL_ENTRIES = [
         "category": "fish",
         "color": "orange",
         "canFly": false,
-        "imageUrl": "images/disgusted-clownfish.jpg"
+        "imageUrl": "/images/disgusted-clownfish.jpg"
     },
     {
         "id": "9657ec1b-6a67-439f-bffc-38a9eb6077e5",
@@ -269,7 +269,7 @@ const ALL_ENTRIES = [
         "category": "insect",
         "color": "orange",
         "canFly": false,
-        "imageUrl": "images/awestruck-firebug.jpg"
+        "imageUrl": "/images/awestruck-firebug.jpg"
     },
     {
         "id": "d265d1fc-52e9-40b4-bb7f-658f07470bcc",
@@ -278,7 +278,7 @@ const ALL_ENTRIES = [
         "category": "bird",
         "color": "black",
         "canFly": false,
-        "imageUrl": "images/disappointed-swan.jpg"
+        "imageUrl": "/images/disappointed-swan.jpg"
     },
     {
         "id": "d87feb26-95c3-4995-a1a7-70602bbd4d85",
@@ -287,7 +287,7 @@ const ALL_ENTRIES = [
         "category": "rodent",
         "color": "brown",
         "canFly": false,
-        "imageUrl": "images/unphased-capybara.jpg"
+        "imageUrl": "/images/unphased-capybara.jpg"
     },
 ];
 
