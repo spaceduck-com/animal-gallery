@@ -1,8 +1,20 @@
 import './App.css'
+import { Breadcrumbs } from './components/Breadcrumbs';
+import { NavigationBar } from './components/NavigationBar';
+
 
 function App() {
   return (
-    <h1>Animal Gallery</h1>
+    <>
+      <NavigationBar />
+      <Breadcrumbs>
+        <li>App Library</li>
+        <li>The Zoo, inc.</li>
+        <li>Animals</li>
+      </Breadcrumbs>
+      <h1>Animals</h1>
+      {/* Gallery goes here... */}
+    </>
   )
 }
 
